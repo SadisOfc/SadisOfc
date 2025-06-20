@@ -3,10 +3,10 @@
 ![logo](src/header.gif)
 
 
-<h1 align="center">A passionate Fullstack Developer from Colombia <img height="50" src="https://media1.tenor.com/m/-EAS6BXgdJkAAAAC/pepe-pepehand.gif"  /></h2>
+<h1 align="center">A passionate Full Stack Developer from Colombia <img height="50" src="https://media1.tenor.com/m/-EAS6BXgdJkAAAAC/pepe-pepehand.gif"  /></h2>
 
 
-### 🛠️ Tecnologías principales
+### 🛠️ Main Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧪 Conocimientos adicionales
+### 🧪 Additional Knowledge 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
 - 🧾 [API de gestión de Pagos con Spring Boot](https://github.com/SadisOfc/DevSenior-Backend)
 
